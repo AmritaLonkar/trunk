@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/su2code/SU2.git/!svn/ver/268/trunk/TestCases/navierstokes/flatplate
+END
+lam_flatplate.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/su2code/SU2.git/!svn/ver/216/trunk/TestCases/navierstokes/flatplate/lam_flatplate.cfg
+END
+lam_flatplate_Roe.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/su2code/SU2.git/!svn/ver/268/trunk/TestCases/navierstokes/flatplate/lam_flatplate_Roe.cfg
+END

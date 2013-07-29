@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/su2code/SU2.git/!svn/ver/8/trunk/SU2_CFD/bin
+END
+.vtk
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/su2code/SU2.git/!svn/ver/8/trunk/SU2_CFD/bin/.vtk
+END
+.csv
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/su2code/SU2.git/!svn/ver/8/trunk/SU2_CFD/bin/.csv
+END

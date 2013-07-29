@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/su2code/SU2.git/!svn/ver/9/trunk/MeshTools/PointwiseSU2plugin/src/Pointwise
+END
+Win64Target.props
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/su2code/SU2.git/!svn/ver/9/trunk/MeshTools/PointwiseSU2plugin/src/Pointwise/Win64Target.props
+END
+Win32Target.vsprops
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/su2code/SU2.git/!svn/ver/9/trunk/MeshTools/PointwiseSU2plugin/src/Pointwise/Win32Target.vsprops
+END
+Win64Target.vsprops
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/su2code/SU2.git/!svn/ver/9/trunk/MeshTools/PointwiseSU2plugin/src/Pointwise/Win64Target.vsprops
+END
+Win32Target.props
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/su2code/SU2.git/!svn/ver/9/trunk/MeshTools/PointwiseSU2plugin/src/Pointwise/Win32Target.props
+END

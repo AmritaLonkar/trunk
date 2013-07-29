@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/su2code/SU2.git/!svn/ver/268/trunk/TestCases/euler/channel
+END
+inv_channel.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/su2code/SU2.git/!svn/ver/216/trunk/TestCases/euler/channel/inv_channel.cfg
+END
+inv_channel_RK.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/su2code/SU2.git/!svn/ver/268/trunk/TestCases/euler/channel/inv_channel_RK.cfg
+END

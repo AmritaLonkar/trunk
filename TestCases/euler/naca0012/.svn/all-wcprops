@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/su2code/SU2.git/!svn/ver/268/trunk/TestCases/euler/naca0012
+END
+inv_NACA0012.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/su2code/SU2.git/!svn/ver/216/trunk/TestCases/euler/naca0012/inv_NACA0012.cfg
+END
+inv_NACA0012_Roe.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/su2code/SU2.git/!svn/ver/268/trunk/TestCases/euler/naca0012/inv_NACA0012_Roe.cfg
+END

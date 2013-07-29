@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/su2code/SU2.git/!svn/ver/268/trunk/TestCases/euler/wedge
+END
+inv_wedge.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/su2code/SU2.git/!svn/ver/216/trunk/TestCases/euler/wedge/inv_wedge.cfg
+END
+inv_wedge_HLLC.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/su2code/SU2.git/!svn/ver/268/trunk/TestCases/euler/wedge/inv_wedge_HLLC.cfg
+END

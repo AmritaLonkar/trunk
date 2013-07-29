@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/su2code/SU2.git/!svn/ver/216/trunk/TestCases/rans/s809
+END
+trans_s809.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/su2code/SU2.git/!svn/ver/216/trunk/TestCases/rans/s809/trans_s809.cfg
+END
+turb_s809.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/su2code/SU2.git/!svn/ver/216/trunk/TestCases/rans/s809/turb_s809.cfg
+END

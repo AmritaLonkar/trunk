@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/su2code/SU2.git/!svn/ver/216/trunk/TestCases/multi_species_plasma/react_argon
+END
+plasma_argon_3D.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/su2code/SU2.git/!svn/ver/216/trunk/TestCases/multi_species_plasma/react_argon/plasma_argon_3D.cfg
+END
